@@ -2,3 +2,47 @@ Modeling Templates（建模模板汇总）
 本项目主要提供PyTorch的代码实现，便于读者阅读
 欢迎共创的算法工程，提供不同大类下的不同行业的模型建模模板与思路，以及专利、文章的创新点思路。
 目前从CV方向开始更新
+
+正在更新backbone. . . . . .
+一.卷积结构
+1.LeNet:
+1998年 采用的sigmoid激活函数，2个Conv2d层和3个FC层
+LeNet5(
+  (Conv_1): Conv2d(1, 6, kernel_size=(5, 5), stride=(1, 1))
+  (Sigmoid_1): Sigmoid()
+  (pooling_1): AvgPool2d(kernel_size=2, stride=2, padding=0)
+  (Conv_2): Conv2d(6, 16, kernel_size=(5, 5), stride=(1, 1))
+  (Sigmoid_2): Sigmoid()
+  (pooling_2): AvgPool2d(kernel_size=2, stride=2, padding=0)
+  (Fc_1): Linear(in_features=400, out_features=120, bias=True)
+  (Sigmoid_3): Sigmoid()
+  (Fc_2): Linear(in_features=120, out_features=84, bias=True)
+  (Sigmoid_4): Sigmoid()
+  (Fc_3): Linear(in_features=84, out_features=10, bias=True)
+)
+----------------------------------------------------------------
+        Layer (type)               Output Shape         Param #
+================================================================
+            Conv2d-1            [-1, 6, 28, 28]             156
+           Sigmoid-2            [-1, 6, 28, 28]               0
+         AvgPool2d-3            [-1, 6, 14, 14]               0
+            Conv2d-4           [-1, 16, 10, 10]           2,416
+           Sigmoid-5           [-1, 16, 10, 10]               0
+         AvgPool2d-6             [-1, 16, 5, 5]               0
+            Linear-7                  [-1, 120]          48,120
+           Sigmoid-8                  [-1, 120]               0
+            Linear-9                   [-1, 84]          10,164
+          Sigmoid-10                   [-1, 84]               0
+           Linear-11                   [-1, 10]             850
+================================================================
+Total params: 61,706
+Trainable params: 61,706
+Non-trainable params: 0
+----------------------------------------------------------------
+Input size (MB): 0.00
+Forward/backward pass size (MB): 0.11
+Params size (MB): 0.24
+Estimated Total Size (MB): 0.35
+
+二.纯注意力结构
+三.混合结构
