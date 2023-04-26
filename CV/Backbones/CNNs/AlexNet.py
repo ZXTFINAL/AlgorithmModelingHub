@@ -6,7 +6,7 @@ from torchsummary import summary
 device = torch.device('cuda' if torch.cuda.is_available() else 'cpu')
 
 
-class AlexNet5(nn.Module):
+class AlexNet(nn.Module):
     def __init__(self, n_classes):
         super(LeNet5, self).__init__()
         self.Conv_1 = nn.Conv2d(
@@ -41,7 +41,7 @@ class AlexNet5(nn.Module):
 
 
 if __name__ == '__main__':
-    model = LeNet5(10).to(device)
+    model = AlexNet(10).to(device)
     print(model)
     summary(model, input_size=(1, 32, 32))
     x = model(torch.randn((2, 1, 32, 32)).to(device))
