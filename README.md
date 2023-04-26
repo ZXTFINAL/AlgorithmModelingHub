@@ -64,11 +64,8 @@ Modeling Templates（建模模板汇总）
 
 The following tools were used in this project:
 
-- [Expo](https://expo.io/)
-- [Node.js](https://nodejs.org/en/)
-- [React](https://pt-br.reactjs.org/)
-- [React Native](https://reactnative.dev/)
-- [TypeScript](https://www.typescriptlang.org/)
+- [python](https://www.python.org/)
+- [pytorch](https://www.python.org/)
 
 ## :white_check_mark: Requirements ##
 
