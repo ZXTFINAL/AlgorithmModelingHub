@@ -56,9 +56,9 @@ Modeling Templates（建模模板汇总）
 
 ## :sparkles: Features ##
 
-:heavy_check_mark: Feature 1;\
-:heavy_check_mark: Feature 2;\
-:heavy_check_mark: Feature 3;
+:heavy_check_mark: 通用业务场景的不同选择;\
+:heavy_check_mark: 快速建模部署;\
+:heavy_check_mark: 知识汇总;
 
 ## :rocket: Technologies ##
 
