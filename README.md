@@ -3,10 +3,10 @@
 
   &#xa0;
 
-  <!-- <a href="https://algorithm_templates.netlify.app">Demo</a> -->
+  <!-- <a href="https://AlgorithmModelingHub.netlify.app">Demo</a> -->
 </div>
 
-<h1 align="center">Algorithm_templates</h1>
+<h1 align="center">AlgorithmModelingHub</h1>
 
 <p align="center">
   <img alt="Github top language" src="https://img.shields.io/github/languages/top/ZXTFINAL/AlgorithmModelingHub?color=56BEB8">
