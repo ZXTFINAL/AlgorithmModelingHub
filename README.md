@@ -1,5 +1,5 @@
 <div align="center" id="top"> 
-  <img src="./.github/app.gif" alt="Algorithm_templates" />
+  <img src="./.github/app.gif" alt="AlgorithmModelingHub" />
 
   &#xa0;
 
@@ -9,25 +9,25 @@
 <h1 align="center">Algorithm_templates</h1>
 
 <p align="center">
-  <img alt="Github top language" src="https://img.shields.io/github/languages/top/ZXTFINAL/algorithm_templates?color=56BEB8">
+  <img alt="Github top language" src="https://img.shields.io/github/languages/top/ZXTFINAL/AlgorithmModelingHub?color=56BEB8">
 
-  <img alt="Github language count" src="https://img.shields.io/github/languages/count/ZXTFINAL/algorithm_templates?color=56BEB8">
+  <img alt="Github language count" src="https://img.shields.io/github/languages/count/ZXTFINAL/AlgorithmModelingHub?color=56BEB8">
 
-  <img alt="Repository size" src="https://img.shields.io/github/repo-size/ZXTFINAL/algorithm_templates?color=56BEB8">
+  <img alt="Repository size" src="https://img.shields.io/github/repo-size/ZXTFINAL/AlgorithmModelingHub?color=56BEB8">
 
-  <img alt="License" src="https://img.shields.io/github/license/ZXTFINAL/algorithm_templates?color=56BEB8">
+  <img alt="License" src="https://img.shields.io/github/license/ZXTFINAL/AlgorithmModelingHub?color=56BEB8">
 
-  <!-- <img alt="Github issues" src="https://img.shields.io/github/issues/ZXTFINAL/algorithm_templates?color=56BEB8" /> -->
+  <!-- <img alt="Github issues" src="https://img.shields.io/github/issues/ZXTFINAL/AlgorithmModelingHub?color=56BEB8" /> -->
 
-  <!-- <img alt="Github forks" src="https://img.shields.io/github/forks/ZXTFINAL/algorithm_templates?color=56BEB8" /> -->
+  <!-- <img alt="Github forks" src="https://img.shields.io/github/forks/ZXTFINAL/AlgorithmModelingHub?color=56BEB8" /> -->
 
-  <!-- <img alt="Github stars" src="https://img.shields.io/github/stars/ZXTFINAL/algorithm_templates?color=56BEB8" /> -->
+  <!-- <img alt="Github stars" src="https://img.shields.io/github/stars/ZXTFINAL/AlgorithmModelingHub?color=56BEB8" /> -->
 </p>
 
 <!-- Status -->
 
 <!-- <h4 align="center"> 
-	🚧  Algorithm_templates 🚀 Under construction...  🚧
+	🚧  AlgorithmModelingHub 🚀 Under construction...  🚧
 </h4> 
 
 <hr> -->
